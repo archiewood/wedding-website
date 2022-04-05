@@ -1,0 +1,25 @@
+---
+title: false
+styles: true
+---
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+$headingtype: (
+  font-family: '"Josefin Sans", sans-serif',
+  regular: 300,
+  bold: 300,
+  cap-height: 0.75
+) !default;
+
+// Typography
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+$bodytype: (
+  font-family: '"Josefin Sans", sans-serif',
+  regular: 300,
+  bold: 400,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingColour: #FFFFFF !default;
+
+@import "alembic";
