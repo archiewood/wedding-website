@@ -3,18 +3,18 @@ title: Travel
 ---
 There are more ways than this to get there than this, but we think many people will consider these options.
 
-## By Plane ✈️
+### By Plane ✈️
 
 There are two major airports nearby, that have many direct flights per day from London, Paris and other nearby European destinations. Both have lots of car rental options.
 
-- **Lyon-Saint Exupéry Airport.**
+- **Lyon-Saint Exupéry Airport**
     - 1hr 40 flight from London.
     - 1hr 25 drive to wedding venue
-- **Marseille Provence Airport.**
+- **Marseille Provence Airport**
     - 1hr 55 flight from London.
     - 1hr 30 drive to wedding venue
 
-## By Train 🚄
+### By Train 🚄
 
 You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris
 
@@ -34,6 +34,6 @@ You can get closer to the venue by train, but it may involve more travel time fo
             - [https://www.google.com/maps/place/Alex+Taxi/@44.5540842,4.6744026,15z/data=!4m6!3m5!1s0x12b5144f9305631b:0x1702c0e6a4d2d7af!8m2!3d44.5540236!4d4.6799899!15sCgx0YXhpIHNlcnZpY2WSAQx0YXhpX3NlcnZpY2U](https://www.google.com/maps/place/Alex+Taxi/@44.5540842,4.6744026,15z/data=!4m6!3m5!1s0x12b5144f9305631b:0x1702c0e6a4d2d7af!8m2!3d44.5540236!4d4.6799899!15sCgx0YXhpIHNlcnZpY2WSAQx0YXhpX3NlcnZpY2U)
         - There are also car rental agencies (Avis, Thrifty)
 
-## By Car 🚗
+### By Car 🚗
 
 We’ve googled this so you dont have to. It’s a 10-12 hr drive from London 😓

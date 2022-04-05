@@ -32,10 +32,18 @@ logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 navigation_header:
 - title: Home
   url: /
-
+- title: Venue Info
+  url: /venue/
+- title: Travel
+  url: /travel/
 - title: Agenda
   url: /agenda/
-
+- title: Accommodation
+  url: /accommodation/
+- title: Gifts
+  url: /gifts/
+- title: RSVP
+  url: /rsvp/
 
 # Footer nav
 navigation_footer:
