@@ -21,25 +21,18 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.archieandanna.com'
 baseurl: ''
 title: 'Archie & Anna’s Wedding'
 description: 'Information about our wedding'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
-
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+
 - title: Agenda
   url: /agenda/
 
