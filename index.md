@@ -1,8 +1,9 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: Archie & Anna's Wedding
+feature_image: "https://picsum.photos/1300/400"
 feature_text: |
-  ## Hello world
+  ## Archie & Anna
+  ### Saturday 9th July 2022
 ---
 
-There isn't much going on here yet, but watch this space
+Our wedding is on **Saturday 9th July 2022**, with events going on from 8th-10th July, in Mirmande, France

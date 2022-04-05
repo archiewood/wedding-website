@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Archie & Anna’s Wedding'
+description: 'Information about our wedding'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -40,6 +40,9 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Agenda
+  url: /agenda/
+
 
 # Footer nav
 navigation_footer:
