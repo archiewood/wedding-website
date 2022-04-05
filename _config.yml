@@ -75,8 +75,8 @@ defaults:
     values:
       layout: page # Set the default layout for pages
 
-fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
-  font_urls:
-    - https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap
+#fonts:
+#  preconnect_urls:
+#    - https://fonts.gstatic.com
+#  font_urls:
+#    - https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap

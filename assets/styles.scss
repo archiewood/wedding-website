@@ -20,6 +20,38 @@ $bodytype: (
   cap-height: 0.75
 ) !default;
 
-$headingColour: #FFFFFF !default;
+//$headingColour: #FFFFFF !default;
+
+
+@mixin justify-content($value: flex-start) {
+    @if $value == flex-start {
+      -webkit-box-pack: start;
+      -ms-flex-pack: start;
+    } @else if $value == flex-end {
+      -webkit-box-pack: end;
+      -ms-flex-pack: end;
+    } @else if $value == space-between {
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+    } @else if $value == space-around {
+      -ms-flex-pack: distribute;    
+    } @else {
+      -webkit-box-pack: $value;
+      -ms-flex-pack: $value;
+    }
+    -webkit-justify-content: $value !important;
+    -moz-justify-content: $value !important;
+    justify-content: $value !important;
+  }
+
+
+
+
+.header{
+  .container {
+    @include justify-content(center);
+    } 
+}
+
 
 @import "alembic";
