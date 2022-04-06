@@ -24,7 +24,7 @@ plugins:
 url: 'https://www.archieandanna.com'
 baseurl: ''
 title: 'Archie & Anna’s Wedding'
-description: 'Information about our wedding'
+description: 'Saturday 9th July 2022'
 permalink: pretty
 #logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
 
@@ -44,6 +44,9 @@ navigation_header:
   url: /gifts/
 - title: RSVP
   url: /rsvp/
+- title: FAQ
+  url: /faq/
+
 
 # Footer nav
 navigation_footer:

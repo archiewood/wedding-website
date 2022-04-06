@@ -1,14 +1,16 @@
 ---
 title: Venue Information
+feature_image: "../assets/images/sunset-nyc.jpg"
 ---
 
 The wedding venue is [La Bastide des Terres](https://maps.app.goo.gl/ubD3wVfE6WosJkqH6) in Mirmande, France. 
 
 
-|![La Bastide des Terres](../assets/bastide.jpg){:class="img-responsive"}| |![Location in France](../assets/france-map.png){:class="img-responsive "}|
+|![La Bastide des Terres](../assets/images/bastide-close-crop.jpg){:class="img-responsive"}||![Location in France](../assets/images/france-map-crop.png){:class="img-responsive "}|
 |:--:|:--:|:--:| 
 | *View of La Bastide des Terres* ||  *Location in France* |
-||||
+
+<br>
 
 **Miramande** is in the South of France, roughly halfway between **Lyon** and **Marseille**.  It is just off the Rhone river.
 

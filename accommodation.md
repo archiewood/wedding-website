@@ -1,5 +1,6 @@
 ---
 title: Accommodation
+feature_image: "../assets/images/skiing.jpg"
 ---
 There are lots of good accommodation options nearby.
 
