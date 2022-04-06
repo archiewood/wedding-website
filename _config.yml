@@ -27,6 +27,8 @@ title: 'Archie & Anna’s Wedding'
 description: 'Saturday 9th July 2022'
 permalink: pretty
 #logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
+google_analytics: G-6YJJLX2TB8
+google_analytics_anonymize_ip: false
 
 # Header nav
 navigation_header:
