@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Archie & Anna’s Wedding'
 description: 'Information about our wedding'
 permalink: pretty
-logo: "/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
+#logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
 
 # Header nav
 navigation_header:
@@ -75,8 +75,8 @@ defaults:
     values:
       layout: page # Set the default layout for pages
 
-#fonts:
-#  preconnect_urls:
-#    - https://fonts.gstatic.com
-#  font_urls:
-#    - https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400

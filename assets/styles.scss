@@ -2,7 +2,7 @@
 title: false
 styles: true
 ---
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400');
 $headingtype: (
   font-family: '"Josefin Sans", sans-serif',
   regular: 300,
@@ -11,7 +11,6 @@ $headingtype: (
 ) !default;
 
 // Typography
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 $bodytype: (
   font-family: '"Josefin Sans", sans-serif',
   regular: 300,
@@ -48,10 +47,21 @@ $bodytype: (
 
 
 .header{
-  .container {
+    .nav {
+        text-align: center !important;
+      }
+    .container {
     @include justify-content(center);
     } 
 }
+
+.header .nav {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center !important;
+    justify-content: center;
+    overflow: hidden;
+  }
 
 
 @import "alembic";

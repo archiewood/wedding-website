@@ -5,6 +5,7 @@ There are more ways than this to get there than this, but we think many people w
 
 ### By Plane ✈️
 
+
 There are two major airports nearby, that have many direct flights per day from London, Paris and other nearby European destinations. Both have lots of car rental options.
 
 - **Lyon-Saint Exupéry Airport**
@@ -14,11 +15,12 @@ There are two major airports nearby, that have many direct flights per day from 
     - 1hr 55 flight from London.
     - 1hr 30 drive to wedding venue
 
+
 ### By Train 🚄
 
 You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris
 
-- **High Speed Train to Gare Valance TGV**
+- **High Speed Train to Gare Valence TGV**
     - Possible good option for those flying into France from further afield (eg North America)
     - 2hr 52 train from Paris Charles de Gaulle Airport
     - 2hr 15 train from Paris Gare de Lyon
