@@ -6,4 +6,8 @@ feature_text: |
   <p style="color: #eeeee4"> Saturday 9th July 2022 </p>
 ---
 
-Our wedding is on **Saturday 9th July 2022**, with events going on from 8th-10th July, in Mirmande, France
+Our wedding is on **Saturday 9th July 2022**, with events going on from 8th-10th July, in Mirmande, France.
+
+We'll keep this website updated with details, and put photos up here afterwards!
+
+We can't wait to see you there!

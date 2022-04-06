@@ -6,6 +6,17 @@ title: FAQs
 
 Please RSVP by May 1st so we can lock in numbers with the caterers and buy enough wine 🙂
 
+### What should I wear?
+
+The only event with a 'theme' is on Saturday. 
+
+Our theme is 'Riviera Chic'. Think open collars, linen, sandals & midi dresses.
+
+It's likey going to be hot (average daytime temp 27°C), so don't feel the need to wear a suit - if it's a scorcher, shorts are encouraged (we want you to enjoy yourself, not suffer!).
+
+If you want to take a dip in the pool make sure to bring your swimmers!
+
+
 ### Can I bring my kids?
 
 We really do love kids, however the Saturday events will be adults only. Feel free to bring them to events on Friday and Sunday. Let us know if you have questions!
