@@ -20,4 +20,4 @@ Assuming the weather is good, the ceremony will be outdoors. Dinner will be serv
 
 ### Who made the website?
 
-Archie, of course 🙂 
+Archie, of course 😀 
