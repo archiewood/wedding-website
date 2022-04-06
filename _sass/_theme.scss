@@ -51,8 +51,8 @@ body {
   background-size: cover;
   background-position: center;
   .container {
-    min-height: 35vh;
     max-width: 60%;
+    min-height: 35vh;
     @include flex-direction(column);
     @include justify-content(center);
   }
@@ -222,6 +222,12 @@ a .icon {
 // Media content
 img {
   max-width: 100%;
+  height: auto;
+}
+
+.img-responsive {
+  max-width: 100%;
+  max-height: 35vh;
   height: auto;
 }
 
