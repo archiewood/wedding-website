@@ -8,7 +8,7 @@ We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We h
 This is the rough plan:
 
 - **Friday**
-    - 4pm - 8pm: Casual BBQ / dinner for those arrving the day before
+    - 4pm - 8pm: Casual BBQ / dinner for those arriving the day before
 - **Saturday - Main Event**     
   *Dress: "Riviera Chic" (See [FAQs](../faq/))*
     - Before 2pm: Time for you to explore the local area
