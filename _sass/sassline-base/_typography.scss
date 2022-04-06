@@ -69,6 +69,7 @@ a {
   // Heading level 1.
   h1, .alpha {
     @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
+      text-align: center;
   }
 
   // Heading level 2.
