@@ -8,9 +8,9 @@ Please RSVP by May 1st so we can lock in numbers with the caterers and buy enoug
 
 ### What should I wear?
 
-The only event with a 'theme' is on Saturday. 
+The only event with a dress code is on Saturday. 
 
-Our theme is 'Riviera Chic'. Think open collars, linen, sandals & midi dresses.
+Our theme is "Riviera Chic". Think linen, open collars, sandals & midi dresses.
 
 It's likey going to be hot (average daytime temp 27°C), so don't feel the need to wear a suit - if it's a scorcher, shorts are encouraged (we want you to enjoy yourself, not suffer!).
 

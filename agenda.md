@@ -9,7 +9,8 @@ This is the rough plan:
 
 - **Friday**
     - 4pm - 8pm: Casual BBQ / dinner for those arrving the day before
-- **Saturday - Main Event**
+- **Saturday - Main Event**     
+  *Dress: "Riviera Chic" (See [FAQs](../faq/))*
     - Before 2pm: Time for you to explore the local area
     - 1:30 - 2pm: Guests arrive at the venue
     - 2pm - 3pm: Drinks reception & canapes
