@@ -2,24 +2,22 @@
 title: Travel
 feature_image: "../assets/images/safari.jpg"
 ---
-There are more ways than this to get there than this, but we think many people will consider these options.
+*There are lots of ways to get here, but we think many people will consider these options.*
 
 ### By Plane ✈️
 
-
-There are two major airports nearby, that have many direct flights per day from London, Paris and other nearby European destinations. Both have lots of car rental options.
-
+There are two major airports nearby, that have many direct flights per day from London, Paris and other nearby European destinations. Both have lots of car rental options (recommended):
 - **Lyon-Saint Exupéry Airport**
-    - 1hr 40 flight from London.
+    - 1hr 40 flight from London
     - 1hr 25 drive to wedding venue
 - **Marseille Provence Airport**
-    - 1hr 55 flight from London.
+    - 1hr 55 flight from London
     - 1hr 30 drive to wedding venue
 
 
 ### By Train 🚄
 
-You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris
+You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris:
 
 - **High Speed Train to Gare Valence TGV**
     - Possible good option for those flying into France from further afield (eg North America)

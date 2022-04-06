@@ -27,7 +27,7 @@ body {
   .container {
     @include flexbox;
     @include flex-direction(row);
-    @include justify-content(center);
+    @include justify-content(space-between);
     padding: 1rem 0;
     @include breakpoint(break-1) {
       @include align-items(center);
@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
-  justify-content: center;
+  justify-content: flex-end;
   overflow: hidden;
 }
 
@@ -106,7 +106,7 @@ body {
 // Pagination nav
 .nav--paginator {
   @include flexbox;
-  @include justify-content(center);
+  @include justify-content(space-between);
   color: $captionColour;
   text-align: center;
 }

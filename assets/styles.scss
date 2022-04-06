@@ -3,22 +3,82 @@ title: false
 styles: true 
 --- 
 
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #05bf85 !default;
+
+// Text colours
+$headingColour: #242e2b !default;
+$bodyColour: #384743 !default;
+$linkColour: #05bf85 !default;
+$hoverColour: #008000 !default;
+$focusColour: #fa407a !default;
+$captionColour: #a8adac !default;
+$white: #ffffff !default;
+
+//Choosing the fonts
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400');
 $headingtype: (font-family: '"Josefin Sans", sans-serif',
   regular: 300,
   bold: 300,
-  cap-height: 0.75) !default;
+  cap-height: 0.5) !default;
 
-// Typography
 $bodytype: (font-family: '"Josefin Sans", sans-serif',
   regular: 300,
   bold: 400,
   italic: italic,
-  cap-height: 0.75) !default;
+  cap-height: 0.5) !default;
 
-//$headingColour: #FFFFFF !default;
+// //  List styling
+
+//   ul, ol {
+//     @include baseline(zeta, $bodytype, 2, 2, all);
+
+//     li {
+//       font-feature-settings: 'kern', 'onum', 'liga';
+//       margin-left: 2rem !important;
+
+//       ol, ul {
+//         padding-top: 1rem;
+//         margin-bottom: 1rem;
+//         margin-left: 2rem;
+//       }
+//     }
+//   }
 
 
+
+@import "sassline-base";
+
+:root {
+  font-size: 70%; // 0px                    ~ Mobile first
+
+  @include breakpoint(break-1) {
+    // 640px   ~ Small tablet up
+    font-size: 70%;
+  }
+
+  @include breakpoint(break-2) {
+    // 800px   ~ Large tablet up
+    font-size: 80%;
+  }
+
+  @include breakpoint(break-3) {
+    // 1024px  ~ Desktop up
+    font-size: 90%;
+  }
+
+  @include breakpoint(break-4) {
+    // 1600px  ~ Large desktop up
+    font-size: 100%;
+  }
+}
+
+
+
+//Need to include this before styling the nav
 @mixin justify-content($value: flex-start) {
   @if $value==flex-start {
     -webkit-box-pack: start;
@@ -49,11 +109,9 @@ $bodytype: (font-family: '"Josefin Sans", sans-serif',
   justify-content: $value !important;
 }
 
-.feature {
-  color: #FFFFFF !important;
-}
 
 
+//Nav styling
 .header {
   .nav {
     text-align: center !important;
@@ -71,6 +129,13 @@ $bodytype: (font-family: '"Josefin Sans", sans-serif',
   justify-content: center;
   overflow: hidden;
 }
+
+//Feature Styling
+.feature {
+  color: #FFFFFF !important;
+}
+
+
 
 
 @import "alembic";
