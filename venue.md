@@ -12,7 +12,7 @@ The wedding venue is [La Bastide des Terres,](https://maps.app.goo.gl/ubD3wVfE6W
 
 <br>
 
-**Miramande** is in the South of France, roughly halfway between **Lyon** and **Marseille**.  It is just off the Rhone river.
+**Mirmande** is in the South of France, roughly halfway between **Lyon** and **Marseille**.  It is just off the Rhone river.
 
 The weather in July in this part of France is generally lovely, averaging 27°C during the day, and 14°C overnight.
 

@@ -19,7 +19,7 @@ If you want to take a dip in the pool make sure to bring your swimmers!
 
 ### Can I bring my kids?
 
-We really do love kids, however the Saturday events will be adults only. Feel free to bring them to events on Friday and Sunday. Let us know if you have questions!
+We really do love kids, however the Saturday events will be adults and babes-in-arms only (if this applies to you please let us know on the RSVP). Feel free to bring your kids to events on Friday and Sunday.
 
 ### Can I bring a plus one?
 
@@ -32,3 +32,8 @@ Assuming the weather is good, the ceremony will be outdoors. Dinner will be serv
 ### Who made the website?
 
 Archie, of course 😀 
+
+
+### I have another question
+
+Just ask us!

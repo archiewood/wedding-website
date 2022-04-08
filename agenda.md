@@ -11,13 +11,14 @@ This is the rough plan:
     - 4pm - 8pm: Casual BBQ / dinner for those arriving the day before
 - **Saturday - Main Event**     
   *Dress: "Riviera Chic" (See [FAQs](../faq/))*
-    - Before 2pm: Time for you to explore the local area
-    - 1:30 - 2pm: Guests arrive at the venue
-    - 2pm - 3pm: Drinks reception & canapes
-    - 3pm - 4pm: Ceremony
-    - 4pm - 6pm: Drinks around the grounds
-    - 6pm - 8pm: Dinner, Speeches
-    - 8pm - Late: Music & Dancing
+    - Before 1:30pm: Time for you to explore the local area
+    - 1:30pm - 2pm: Guests arrive at the venue
+    - 2pm - 3pm: Ceremony
+    - 3pm - 4:30pm: Canapes 
+    - 4:30pm - 7pm: Drinks, Lawn Games
+    - 7pm - 10pm: Dinner, Speeches
+    - 10pm - Late: Music & Dancing
+    
 - **Sunday**
     - 9am - 2pm: Buffet Brunch 
     - 2pm - 6pm: Relaxing by the pool & in the grounds
