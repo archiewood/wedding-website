@@ -6,6 +6,17 @@ title: FAQs
 
 Please RSVP by May 1st so we can lock in numbers with the caterers and buy enough wine 🙂
 
+### What COVID travel measures are in place in France?
+
+Measures may vary from non-UK origins - check local guidance. 
+
+From the UK, see [current measures](https://www.bbc.com/news/explainers-56997931). You can enter France from the UK if you:
+
+- Complete a ["sworn statement"](https://www.interieur.gouv.fr/covid-19-international-travel).
+- Prove that you've been fully vaccinated, and your last dose was less than nine months ago. If you are 18+, and your last dose was more than nine months ago, you will NOT be considered fully vaccinated unless you have also received a booster.
+- Since 12 Feb you **no longer need to present proof of a negative test** before you travel if you're fully vaccinated.
+
+
 ### What should I wear?
 
 The only event with a dress code is on Saturday. 
