@@ -31,3 +31,7 @@ However, don't hang about too long on booking - it's peak summer season in Franc
         - You hate camping
     - BYOT (Bring-your-own-tent)
     - There will be bathrooms on site
+
+<p style='text-align: right'>
+{% include button.html text="<b>Gifts »</b>" link="../gifts"%}
+</p>

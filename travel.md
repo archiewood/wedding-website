@@ -38,3 +38,7 @@ You can get closer to the venue by train, but it may involve more travel time fo
 ### By Car 🚗
 
 We’ve googled this so you dont have to. It’s a 10-12 hr drive from London 😓
+
+<p style='text-align: right'>
+{% include button.html text="<b>Agenda »</b>" link="../agenda"%}
+</p>

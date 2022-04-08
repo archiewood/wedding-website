@@ -16,3 +16,7 @@ We'll keep this website updated with details, and put photos up here afterwards!
 <p style='text-align: center'>
 Can't wait to see you there!
 </p>
+
+<p style='text-align: right'>
+{% include button.html text="<b>Venue Info »</b>" link="/venue" %}
+</p>

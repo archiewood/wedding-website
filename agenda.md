@@ -23,3 +23,7 @@ This is the rough plan:
     - 9am - 2pm: Buffet Brunch 
     - 2pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate
+
+<p style='text-align: right'>
+{% include button.html text="<b>Accommodation »</b>" link="../accommodation"%}
+</p>
