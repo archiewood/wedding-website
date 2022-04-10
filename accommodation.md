@@ -18,7 +18,7 @@ However, don't hang about too long on booking - it's peak summer season in Franc
 -  [**Hotel les Oliviers**](https://hotel-les-oliviers.eu/)
     - 11 min drive from venue
     - Only a few spots here but looks super nice
--   [Hôtel restaurant La Capitelle](http://www.lacapitelle.com/en/)
+-   [**Hôtel restaurant La Capitelle**](http://www.lacapitelle.com/en/)
     - Walking distance (1.2km, 17 mins) from venue
     - 3* French traditional accommodation, looks pretty good.
 -  [**Hotel IBIS Montélimar North**](https://all.accor.com/hotel/0623/index.en.shtml?dateIn=2022-07-08&nights=2&compositions=2&stayplus=false#origin=accor)
