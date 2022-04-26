@@ -30,7 +30,7 @@ If you want to take a dip in the pool make sure to bring your swimmers!
 
 ### Can I bring my kids?
 
-We really do love kids, however the Saturday events will be adults and babes-in-arms only (if this applies to you please let us know on the RSVP). To organise a babysitter, call or text Marlene at +33 6 83 47 46 43. Feel free to bring your kids to events on Friday and Sunday. 
+We really do love kids, however the Saturday events will be adults and babes-in-arms only (if this applies to you please let us know on the RSVP). To organise a babysitter, call or text Marlene at +33 6 83 47 46 43. Feel free to bring your kids to events on Friday and Sunday.
 
 ### Can I bring a plus one?
 
