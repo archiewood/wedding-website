@@ -2,10 +2,6 @@
 title: FAQs
 ---
 
-### What's the RSVP deadline?
-
-Please RSVP by May 1st so we can lock in numbers with the caterers and buy enough wine 🙂
-
 ### What COVID travel measures are in place in France?
 
 Measures may vary from non-UK origins - check local guidance. 
