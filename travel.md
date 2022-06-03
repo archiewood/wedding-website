@@ -1,5 +1,5 @@
 ---
-title: Travel - Archie & Anna's Wedding 💍
+title: Travel
 feature_image: "../assets/images/safari.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---

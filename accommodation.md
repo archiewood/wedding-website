@@ -1,5 +1,5 @@
 ---
-title: Accommodation - Archie & Anna's Wedding 💍
+title: Accommodation
 feature_image: "../assets/images/skiing.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---

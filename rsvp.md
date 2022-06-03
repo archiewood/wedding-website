@@ -1,5 +1,5 @@
 ---
-title: RSVP - Archie & Anna's Wedding 💍
+title: RSVP
 image: "../assets/images/sweden-aperol.jpg"
 ---
 

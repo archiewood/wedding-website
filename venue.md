@@ -1,5 +1,5 @@
 ---
-title: Venue Information - Archie & Anna's Wedding 💍
+title: Venue Information
 feature_image: "../assets/images/sunset-nyc.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---

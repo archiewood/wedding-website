@@ -23,9 +23,9 @@ plugins:
 # Site settings
 url: 'https://www.archieandanna.com'
 baseurl: ''
-title: 'Archie & Anna’s Wedding - Saturday 9th July 2022' 
+title: "Archie & Anna’s Wedding"
 image: "../assets/images/sweden-aperol.jpg"
-description: 'All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!'
+description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
 permalink: pretty
 #logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
 google_analytics: G-6YJJLX2TB8

@@ -1,5 +1,5 @@
 ---
-title: Agenda - Archie & Anna's Wedding 💍
+title: Agenda
 feature_image: "../assets/images/sweden-aperol.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---

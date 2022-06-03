@@ -1,5 +1,5 @@
 ---
-title: FAQs - Archie & Anna's Wedding 💍
+title: FAQs
 image: "../assets/images/sweden-aperol.jpg"
 ---
 
