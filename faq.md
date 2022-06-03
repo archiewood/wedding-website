@@ -1,5 +1,6 @@
 ---
-title: FAQs
+title: FAQs - Archie & Anna's Wedding 💍
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 ### What COVID travel measures are in place in France?

@@ -1,6 +1,7 @@
 ---
-title: Travel
+title: Travel - Archie & Anna's Wedding 💍
 feature_image: "../assets/images/safari.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 ### Ridesharing 🤝🏼
 Most people's final leg of transport will involve a car. We've set up a [ridesharing spreadsheet](https://docs.google.com/spreadsheets/d/1o02hOkrnIfmcy2Br_meUX2KkyGG3ZbRqcB4DAKcWdD4/edit#gid=0), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.

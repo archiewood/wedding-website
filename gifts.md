@@ -1,6 +1,7 @@
 ---
-title: Gifts / Registry
+title: Gifts / Registry - Archie & Anna's Wedding 💍
 feature_image: "../assets/images/sunset.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 <p style='text-align: center'>

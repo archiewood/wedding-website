@@ -1,6 +1,7 @@
 ---
-title: Accommodation
+title: Accommodation - Archie & Anna's Wedding 💍
 feature_image: "../assets/images/skiing.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 There are lots of good accommodation options nearby, some walkable from the venue, and many within a 20-25 min drive radius between nearby Montélimar and Valence. 
 

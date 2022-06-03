@@ -1,6 +1,7 @@
 ---
-title: Agenda
+title: Agenda - Archie & Anna's Wedding 💍
 feature_image: "../assets/images/sweden-aperol.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We have events each day, and they are all at the same venue. You are welcome to come to as much or as little as you like.

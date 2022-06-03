@@ -1,5 +1,6 @@
 ---
-title: RSVP
+title: RSVP - Archie & Anna's Wedding 💍
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 <p style='text-align: center'> Not loading? <a href='https://forms.gle/UPmtBH2ZYn4ND4qD8'>Try here.</a> </p>
