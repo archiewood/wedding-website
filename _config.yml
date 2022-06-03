@@ -24,6 +24,7 @@ plugins:
 url: 'https://www.archieandanna.com'
 baseurl: ''
 title: 'Archie & Anna’s Wedding'
+image: "../assets/images/sweden-aperol.jpg"
 description: 'Saturday 9th July 2022'
 permalink: pretty
 #logo: "/assets/logos/white_icon.svg" # Site logo, also used in jekyll-seo-tag
