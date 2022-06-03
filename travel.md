@@ -1,6 +1,7 @@
 ---
 title: Travel
 feature_image: "../assets/images/safari.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 ### Ridesharing 🤝🏼
 Most people's final leg of transport will involve a car. We've set up a [ridesharing spreadsheet](https://docs.google.com/spreadsheets/d/1o02hOkrnIfmcy2Br_meUX2KkyGG3ZbRqcB4DAKcWdD4/edit#gid=0), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.
@@ -22,7 +23,7 @@ There are two major airports nearby, that have many direct flights per day from 
 
 ### By Train 🚄
 
-You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris.
+You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferable to changing to another plane in Paris.
 
 _Please note, train stations are NOT walking distance from venue, and there is limited public transport._
 
@@ -44,7 +45,7 @@ _Please note, train stations are NOT walking distance from venue, and there is l
 
 ### By Car 🚗
 
-We’ve googled this so you dont have to. It’s a 10-12 hr drive from London 😓
+We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London 😓
 
 <p style='text-align: right'>
 {% include button.html text="<b>Agenda »</b>" link="../agenda"%}

@@ -1,6 +1,7 @@
 ---
 title: Gifts / Registry
 feature_image: "../assets/images/sunset.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 <p style='text-align: center'>

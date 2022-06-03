@@ -1,6 +1,7 @@
 ---
 title: Venue Information
 feature_image: "../assets/images/sunset-nyc.jpg"
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 <p style='text-align: center'>The wedding venue is <a href='https://maps.app.goo.gl/ubD3wVfE6WosJkqH6'>La Bastide des Terres,</a> 70 Chemin de Chabrier, 26270 Mirmande, France.</p>

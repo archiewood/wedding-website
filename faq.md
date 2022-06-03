@@ -1,5 +1,6 @@
 ---
 title: FAQs
+image: "../assets/images/sweden-aperol.jpg"
 ---
 
 ### What COVID travel measures are in place in France?
@@ -19,7 +20,7 @@ The only event with a dress code is on Saturday.
 
 Our theme is *"Riviera Chic"*. Think linen, open collars, sandals & midi dresses.
 
-It's likey going to be hot, with an average daytime temp of 27°C, so don't feel the need to wear a suit. If it's a scorcher, shorts are encouraged (we want you to enjoy yourself, not suffer!).
+It's likely going to be hot, with an average daytime temp of 27°C, so don't feel the need to wear a suit. If it's a scorcher, shorts are encouraged (we want you to enjoy yourself, not suffer!).
 
 If you want to take a dip in the pool make sure to bring your swimmers!
 
