@@ -1,4 +1,7 @@
 ---
+title: Archie & Anna's Wedding Website
+description: All the info you need about our wedding and the venue, as well as travel & accommodation options. We'll post photos up here after too!
+image: "../assets/images/crater-lake.jpg"
 feature_image: "../assets/images/crater-lake.jpg"
 feature_text: |
   <h1 style="color: #eeeee4"> Archie and Anna </h1>
