@@ -1,6 +1,6 @@
 ---
-title: Archie & Anna's Wedding - Saturday 9th July 2022
-description: All the info you need about our Wedding 💍 and the Venue 🇫🇷, as well as Travel ✈️ & Accommodation 🌇 options. We'll post photos up here after too!
+title: Archie & Anna's Wedding 💍 Saturday 9th July 2022 🇫🇷
+description: All the info you need about our Wedding and the Venue , as well as Travel & Accommodation options. We'll post photos up here after too!
 image: "../assets/images/sweden-aperol.jpg"
 feature_image: "../assets/images/crater-lake.jpg"
 feature_text: |
