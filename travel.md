@@ -23,7 +23,7 @@ There are two major airports nearby, that have many direct flights per day from 
 
 ### By Train 🚄
 
-You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferrable to changing to another plane in Paris.
+You can get closer to the venue by train, but it may involve more travel time for UK guests. For non-European residents, this may be preferable to changing to another plane in Paris.
 
 _Please note, train stations are NOT walking distance from venue, and there is limited public transport._
 
@@ -45,7 +45,7 @@ _Please note, train stations are NOT walking distance from venue, and there is l
 
 ### By Car 🚗
 
-We’ve googled this so you dont have to. It’s a 10-12 hr drive from London 😓
+We’ve googled this so you don’t have to. It’s a 10-12 hr drive from London 😓
 
 <p style='text-align: right'>
 {% include button.html text="<b>Agenda »</b>" link="../agenda"%}
