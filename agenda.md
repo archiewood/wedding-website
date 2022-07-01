@@ -9,20 +9,21 @@ We are hiring the venue from Friday 8th July to Sunday 10th July inclusive. We h
 This is the rough plan:
 
 - **Friday**
-    - 4pm - 8pm: Casual BBQ / dinner for those arriving the day before
+    - 6pm - 8pm: Buffet dinner for those arriving the day before
+    - Pool open - if you want to take a dip bring along your swimmers
 - **Saturday - Main Event**     
   *Dress: "Riviera Chic" (See [FAQs](../faq/))*
     - Before 1:30pm: Time for you to explore the local area
     - 1:30pm - 2pm: Guests arrive at the venue
     - 2pm - 3pm: Ceremony
-    - 3pm - 4:30pm: Canapes 
-    - 4:30pm - 7pm: Drinks, Lawn Games
+    - 3pm - 5pm: Canapes 
+    - 5pm - 7pm: Drinks, Lawn Games
     - 7pm - 10pm: Dinner, Speeches
     - 10pm - Late: Music & Dancing
     
 - **Sunday**
-    - 9am - 2pm: Buffet Brunch 
-    - 2pm - 6pm: Relaxing by the pool & in the grounds
+    - 10am - 12pm: Buffet Brunch 
+    - 12pm - 6pm: Relaxing by the pool & in the grounds
     - Guests can stay until 6pm, when we have to vacate
 
 <p style='text-align: right'>
