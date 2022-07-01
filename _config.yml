@@ -41,6 +41,8 @@ navigation_header:
   url: /travel/
 - title: Agenda
   url: /agenda/
+- title: Seating Plan
+  url: /seating/
 - title: Accommodation
   url: /accommodation/
 - title: Gifts
