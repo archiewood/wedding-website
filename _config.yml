@@ -41,14 +41,8 @@ navigation_header:
   url: /travel/
 - title: Agenda
   url: /agenda/
-- title: Accommodation
-  url: /accommodation/
-- title: Gifts
-  url: /gifts/
-- title: RSVP
-  url: /rsvp/
-- title: FAQ
-  url: /faq/
+- title: Photos
+  url: /photos/
 
 
 # Footer nav
@@ -80,6 +74,10 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  - scope:
+      path: "assets/images/pro-photos"
+    values:
+      pro-photos: true
 
 fonts:
   preconnect_urls:
