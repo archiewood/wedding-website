@@ -22,7 +22,7 @@ title: Photos
     }
 
     a.img-link {
-        background: #EC985A;
+        background:  #e6e6e6;
         margin: 0 0.5rem 0.5rem 0;
         flex-grow: 1;
         object-fit: cover;
