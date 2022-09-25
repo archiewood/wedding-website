@@ -10,10 +10,8 @@ title: Photos
 <div class="grid">
     {% for myimage in image_files %}
         <a class="img-link" href="{{ myimage.path }}" target="_blank">
-            <img src="{{ myimage.path }}" alt="{{ myimage.name }}"/>
+            <img src="{{ myimage.path }}" alt="{{ myimage.name }}" loading="lazy"/>
         </a>
-        
-    
     {% endfor %}
 </div>
 
@@ -29,6 +27,7 @@ title: Photos
         flex-grow: 1;
         object-fit: cover;
         height: 300px;
+        min-width: 100px
     }
 
 
