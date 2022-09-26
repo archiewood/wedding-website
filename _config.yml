@@ -19,6 +19,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- fastimage
 
 # Site settings
 url: 'https://www.archieandanna.com'
@@ -75,10 +76,35 @@ defaults:
     values:
       layout: page # Set the default layout for pages
   - scope:
-      path: "assets/images/pro-photos"
+      path: "assets/images/pro-photos/ceremony"
     values:
+      ceremony: true
       pro-photos: true
-
+  - scope:
+      path: "assets/images/pro-photos/cocktail"
+    values:
+      cocktail: true
+      pro-photos: true
+  - scope:
+      path: "assets/images/pro-photos/dancing"
+    values:
+      dancing: true
+      pro-photos: true
+  - scope:
+      path: "assets/images/pro-photos/getting-ready"
+    values:
+      getting-ready: true
+      pro-photos: true
+  - scope:
+      path: "assets/images/pro-photos/dinner"
+    values:
+      dinner: true
+      pro-photos: true
+  - scope:
+      path: "assets/images/pro-photos/together"
+    values:
+      together: true
+      pro-photos: true
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com

@@ -26,6 +26,8 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    fastimage (1.8.1)
+      addressable (~> 2.3, >= 2.3.5)
     ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
@@ -115,6 +117,7 @@ PLATFORMS
 
 DEPENDENCIES
   alembic-jekyll-theme (~> 4.1)
+  fastimage
   jekyll (~> 4.1)
   webrick (~> 1.7)
 
