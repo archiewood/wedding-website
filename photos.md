@@ -2,21 +2,8 @@
 title: Photos
 ---
 
-<p class="right">
-<span>Download All: </span>
-<a class="download-icon" href="../assets/images/high-res/Archie_Anna_Wedding_HQ.zip" download>
-    <span>HQ: 2GB</span>
-    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15v4c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2v-4M17 9l-5 5-5-5M12 12.8V2.5"></path></svg>
-</a>
-<span>&nbsp;</span>
-<a class="download-icon" href="../assets/images/pro-photos/Archie_Anna_Wedding_SD.zip" download>
-    <span>SD: 300MB</span>
-    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15v4c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2v-4M17 9l-5 5-5-5M12 12.8V2.5"></path></svg>
-</a>
-</p>
-
 <p class="center">
-If you use Google Photos, the album is also available <a href="https://photos.app.goo.gl/scesL5azBWUHZDKv8">here</a>.
+If you use Google Photos, the album is also available <a href="https://photos.app.goo.gl/scesL5azBWUHZDKv8">here</a>, (where you can also download the whole album).
 </p>
 
 <p class="center">
@@ -62,7 +49,7 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
 
     div.img-container {
         background:  #e6e6e6;
-        margin: 0.2em;
+        margin: 0.1em;
         position: relative;
         display: inline-block;
     }
@@ -79,6 +66,15 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         position: absolute;
         bottom: 0;
         right: 10px;
+    }
+
+    .download-icon-single:hover{
+        transform: scale(1.2);
+        transition: transform 0.2s; 
+    }
+
+    .download-icon-single:hover svg{
+        stroke: #FFF;
     }
 
 
