@@ -105,6 +105,38 @@ defaults:
     values:
       together: true
       pro-photos: true
+
+  - scope:
+      path: "assets/images/high-res/ceremony"
+    values:
+      ceremony: true
+      high-res: true
+  - scope:
+      path: "assets/images/high-res/cocktail"
+    values:
+      cocktail: true
+      high-res: true
+  - scope:
+      path: "assets/images/high-res/dancing"
+    values:
+      dancing: true
+      high-res: true
+  - scope:
+      path: "assets/images/high-res/getting-ready"
+    values:
+      getting-ready: true
+      high-res: true
+  - scope:
+      path: "assets/images/high-res/dinner"
+    values:
+      dinner: true
+      high-res: true
+  - scope:
+      path: "assets/images/high-res/together"
+    values:
+      together: true
+      high-res: true
+
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
