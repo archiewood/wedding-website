@@ -1,7 +1,7 @@
 ---
 title: Photos
 ---
-<link type="text/css" rel="stylesheet" href="../assets/css/lightgallery.css" />
+<link type="text/css" rel="stylesheet" href="../assets/css/lightgallery.css?rnd=2" />
 <link type="text/css" rel="stylesheet" href="../assets/css/lg-zoom.css" />
 <script src="../assets/js/lightgallery.min.js"></script>
 <script src="../assets/js/lg-zoom.min.js"></script>
@@ -101,11 +101,6 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         display: block;
     }
 
-    a {
-        color: #384743 !important;
-        text-decoration: none !important;
-    }
-
     h2{
         text-transform:capitalize;
         padding-top: 1em;
@@ -113,10 +108,10 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
     }
 
     .lg-toolbar-next:before {
-        content: "\e094";
+        content: "\e095";
     }
     .lg-toolbar-prev:before {
-        content: "\e095";
+        content: "\e094";
     }
 
     
@@ -148,6 +143,7 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         selector: ".img-link",
         speed: 250,
         controls: false,
+        counter: false,
         plugins: [lgZoom]
         });
 </script>

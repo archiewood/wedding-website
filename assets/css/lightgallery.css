@@ -62,7 +62,7 @@
 }
 
 .lg-next:before {
-  content: '\e094';
+  content: '\e095';
 }
 
 .lg-prev {
@@ -70,7 +70,7 @@
 }
 
 .lg-prev:after {
-  content: '\e095';
+  content: '\e094';
 }
 
 @-webkit-keyframes lg-right-end {
@@ -198,7 +198,6 @@
 .lg-toolbar .lg-icon {
   color: #999;
   cursor: pointer;
-  float: right;
   font-size: 24px;
   height: 47px;
   line-height: 27px;
@@ -226,6 +225,10 @@
 
 .lg-toolbar .lg-close:after {
   content: '\e070';
+}
+
+.lg-close {
+  float: right;
 }
 
 .lg-toolbar .lg-maximize {
