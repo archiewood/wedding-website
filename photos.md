@@ -14,7 +14,7 @@ If you use Google Photos, the album is also available <a href="https://photos.ap
 </p>
 
 <p class="center">
-Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7">here</a>.
+Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7" target="_blank">here</a>, as well as an <a href="https://clipchamp.com/watch/wHe7QrdHh4L" target="_blank">excellent video</a> from Adam R's drone.
 </p>
 <div id="gallery-container">
 {% assign sections = "getting-ready, ceremony, cocktail, dinner, together, dancing" | split: ", " %}
