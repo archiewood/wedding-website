@@ -3,8 +3,10 @@ title: Photos
 ---
 <link type="text/css" rel="stylesheet" href="../assets/css/lightgallery.css?rnd=2" />
 <link type="text/css" rel="stylesheet" href="../assets/css/lg-zoom.css" />
+<link type="text/css" rel="stylesheet" href="../assets/css/lg-fullscreen.css" />
 <script src="../assets/js/lightgallery.min.js"></script>
 <script src="../assets/js/lg-zoom.min.js"></script>
+<script src="../assets/js/lg-fullscreen.min.js"></script>
 
 
 
@@ -144,6 +146,6 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         speed: 250,
         controls: false,
         counter: false,
-        plugins: [lgZoom]
+        plugins: [lgZoom, lgFullscreen],
         });
 </script>
