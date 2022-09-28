@@ -122,7 +122,7 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
 <script type="text/javascript" async="">
         var $galleryContainer = document.getElementById("gallery-container");
 
-        const customButtons = `<button type="button" id="lg-toolbar-prev" aria-label="Previous slide" class="lg-toolbar-prev lg-icon">  </button><button type="button" id="lg-toolbar-next" aria-label="Next slide" class="lg-toolbar-next lg-icon">  </button>`;
+        const customButtons = `<button type="button" id="lg-toolbar-next" aria-label="Next slide" class="lg-toolbar-next lg-icon">  </button><button type="button" id="lg-toolbar-prev" aria-label="Previous slide" class="lg-toolbar-prev lg-icon">  </button>`;
 
         $galleryContainer.addEventListener("lgInit", (event) => {
         const pluginInstance = event.detail.instance;
@@ -130,12 +130,12 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         // Note append and find are not jQuery methods
         // These are utility methods provided by lightGallery
         const $toolbar = pluginInstance.outer.find(".lg-toolbar");
-        $toolbar.prepend(customButtons);
-        document.getElementById("lg-toolbar-prev").addEventListener("click", () => {
-            pluginInstance.goToPrevSlide();
-        });
+        $toolbar.append(customButtons);
         document.getElementById("lg-toolbar-next").addEventListener("click", () => {
             pluginInstance.goToNextSlide();
+        });
+        document.getElementById("lg-toolbar-prev").addEventListener("click", () => {
+            pluginInstance.goToPrevSlide();
         });
         });
 

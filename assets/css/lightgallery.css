@@ -199,6 +199,7 @@
   color: #999;
   cursor: pointer;
   font-size: 24px;
+  float:right;
   height: 47px;
   line-height: 27px;
   padding: 10px 0;
@@ -225,10 +226,6 @@
 
 .lg-toolbar .lg-close:after {
   content: '\e070';
-}
-
-.lg-close {
-  float: right;
 }
 
 .lg-toolbar .lg-maximize {
