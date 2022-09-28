@@ -137,6 +137,37 @@ defaults:
       together: true
       high-res: true
 
+  - scope:
+      path: "assets/images/webp/ceremony"
+    values:
+      ceremony: true
+      webp: true
+  - scope:
+      path: "assets/images/webp/cocktail"
+    values:
+      cocktail: true
+      webp: true
+  - scope:
+      path: "assets/images/webp/dancing"
+    values:
+      dancing: true
+      webp: true  
+  - scope:    
+      path: "assets/images/webp/getting-ready"
+    values:
+      getting-ready: true
+      webp: true
+  - scope:
+      path: "assets/images/webp/dinner"
+    values:
+      dinner: true
+      webp: true
+  - scope:
+      path: "assets/images/webp/together"
+    values:
+      together: true
+      webp: true
+
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com

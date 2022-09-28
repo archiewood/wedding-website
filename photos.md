@@ -27,13 +27,14 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
 {% for image in section-images %}
 
 {% assign high_res_path = image.path | replace: "pro-photos", "high-res" %}
+{% assign webp_path = image.path | replace: "pro-photos", "webp" | replace: "jpg", "webp" %}
 {% assign width = image.path | remove_first: "/" | image_size: 'w' %}
 {% assign height = image.path | remove_first: "/" | image_size: 'h' %}
 
-<div class="img-container" data-src="{{ high_res_path }}" style="width:{{ width | times: 200.0 |divided_by: height}}px; flex-grow:{{ width | times: 200.0 |divided_by: height}}">
-    <a class="img-link" data-src="{{ high_res_path }}" href="{{ high_res_path }}" target="_blank" >
+<div class="img-container" data-src="{{ webp_path }}" style="width:{{ width | times: 200.0 |divided_by: height}}px; flex-grow:{{ width | times: 200.0 |divided_by: height}}">
+    <a class="img-link" data-src="{{ webp_path }}" href="{{ webp_path }}" target="_blank" >
         <div class="i" style="padding-bottom:{{ height | times: 100.0 | divided_by: width}}%"></div>
-        <img src="{{ image.path }}" data-src="{{ high_res_path }}" loading="lazy" >
+        <img src="{{ webp_path }}" data-src="{{ webp_path }}" loading="lazy" >
     </a>
     <a class="download-icon-single" href="{{ high_res_path }}" download>
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#d3d3d3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 15v4c0 1.1.9 2 2 2h14a2 2 0 0 0 2-2v-4M17 9l-5 5-5-5M12 12.8V2.5"></path></svg>
