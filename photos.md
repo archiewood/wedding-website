@@ -144,7 +144,7 @@ Photos taken by guests are <a href="https://photos.app.goo.gl/YXQ8ChfeCS8cYAFZ7"
         speed: 250,
         controls: false,
         counter: false,
-        plugins: [lgZoom]
+        plugins: [lgZoom],
         licenseKey: "D9CDB7A3-526D49B8-91F61C6F-9FBCFDF6"
         });
 </script>
