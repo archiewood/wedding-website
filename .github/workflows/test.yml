@@ -17,4 +17,4 @@ jobs:
       name: Integrate Pull Request # Our dummy environment
     steps:
     - name: Test
-      run: Test Complete
+      run: echo Test Complete
