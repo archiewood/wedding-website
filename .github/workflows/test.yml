@@ -12,10 +12,9 @@ jobs:
 
   build: # Second step
     runs-on: ubuntu-latest
-
     needs: [approve] # Require the first step to finish
     environment:
       name: Integrate Pull Request # Our dummy environment
     steps:
     - name: Test
-    - run: Test Complete
+      run: Test Complete
