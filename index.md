@@ -9,7 +9,7 @@ feature_text: |
 ---
 
 <p style='text-align: center'>
-Our wedding is on <b>Saturday 9th July 2022</b>, with events going on from 8th-10th July, in Mirmande, France.
+Our wedding is on <b>Saturday 9th July 2022</b>, with events going on from 8th-10th July, in Mirmande, France
 </p>
 
 <p style='text-align: center'>
