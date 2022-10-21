@@ -10,7 +10,7 @@ There are lots of good accommodation options nearby, some walkable from the venu
 |*15 and 30 min drivetimes from the venue*|
 
 
-However, don't hang about too long on booking - it's peak summer season in France!
+However, don't hang about too long on booking - it's peak summer season in France
 
 ### Selected Options 🌇
 
