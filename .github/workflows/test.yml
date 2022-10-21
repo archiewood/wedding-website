@@ -10,7 +10,7 @@ jobs:
       
   build-forks: # Second step for forks
     runs-on: ubuntu-latest
-    if: ${{ github.repository_owner != 'archiewood' }}
+    if: ${{ github.actor != 'archiewood' }}
     needs: [approve] # Require the first step to finish
     environment:
       name: Integrate Pull Request # Our dummy environment
@@ -20,7 +20,7 @@ jobs:
       
   build-sources: # Second step for sources
     runs-on: ubuntu-latest
-    if: ${{ github.repository_owner == 'archiewood' }}
+    if: ${{ github.actor == 'archiewood' }}
     steps:
     - name: Test
       run: echo Test Complete
